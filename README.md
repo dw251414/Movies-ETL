@@ -9,7 +9,7 @@ For this analysis, we used the following breakdown:
 4. load the data to a PostgreSQL Movie Database.
 
 ## Resources
-- Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, PostgreSQL 11.9, pgAdmin 4
+- Software: Python 3.7.10, Conda 4.10.1, Jupyter Notebook 6.3, PostgreSQL 13, pgAdmin 4
 
 ## Results
 
@@ -25,7 +25,7 @@ The Kaggle and rating data were then merged with the Wikipedia movies DataFrame.
 
 ### Load the data to a PostgreSQL Movie Database
 <img width="568" alt="ETL" src="https://user-images.githubusercontent.com/82069038/121946579-14b6b600-cd23-11eb-84bc-69b972615846.png">
---- 
+
 <img width="1324" alt="moviesdf" src="https://user-images.githubusercontent.com/82069038/121946621-213b0e80-cd23-11eb-9fc5-69e7bd31fd65.png">
 
 ## Summary
